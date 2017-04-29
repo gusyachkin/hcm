@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fts-config xmlns="http://schemas.haulmont.com/cuba/fts.xsd">
+    <entities>
+        <entity class="com.embria.hcm.entity.HrQuery">
+            <include re=".*"/>
+        </entity>
+    </entities>
+</fts-config>
